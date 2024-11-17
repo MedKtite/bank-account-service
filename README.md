@@ -24,7 +24,3 @@ This micro-service is built with **Spring Boot** and integrates several key tech
 - 💾 **In-memory H2 Database** for testing
 - 📦 **DTOs and Mappers** for data transfer
 - 🛠️ **Service Layer** implementing business logic
-
----
-
-## 📂 Project Structure  
